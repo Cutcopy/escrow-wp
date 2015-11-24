@@ -1,0 +1,15 @@
+{
+  "name": "escrow",
+  "version": "1.0.0",
+  "description": "Vyral Marketing Theme for Real Estate Agents",
+  "main": "index.php",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "wordpress",
+    "theme"
+  ],
+  "author": "Bryce Stradling",
+  "license": "ISC"
+}

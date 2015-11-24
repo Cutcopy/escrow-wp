@@ -1,0 +1,12 @@
+/*
+Theme Name: Escrow
+Author: Bryce Stradling
+Author URI: http://brycestradling.com
+version: 0.1
+*/
+
+body {
+  background: skyblue;
+  color: white;
+  font-family: arial, sans-serif;
+}
